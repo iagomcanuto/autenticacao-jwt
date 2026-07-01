@@ -1,0 +1,13 @@
+.angular
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+/dist
+/node_modules
+/tmp
+/out-tsc
+*.log
+.env
+.env.*
+!.env.example
